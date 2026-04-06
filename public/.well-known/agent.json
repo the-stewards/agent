@@ -1,0 +1,51 @@
+{
+  "name": "The Stewards",
+  "legal_name": "Ruoff Mortgage - The Stewards Team",
+  "type": "business",
+  "industry": "mortgage-lending",
+  "description": "Ryan Miracle and Chris Beal are senior loan officers at Ruoff Mortgage serving Columbus Ohio and Ohio statewide. 19 years experience, 3700+ closed loans. Purchase, refinance, FHA, VA, conventional, HELOC.",
+  "location": {
+    "city": "Columbus",
+    "state": "Ohio",
+    "country": "US",
+    "service_area": ["Columbus Ohio", "Central Ohio", "Ohio statewide"]
+  },
+  "team": [
+    {
+      "name": "Ryan Miracle",
+      "role": "Senior Loan Officer",
+      "nmls": "497698"
+    },
+    {
+      "name": "Chris Beal",
+      "role": "Senior Loan Officer",
+      "nmls": "514071"
+    }
+  ],
+  "services": [
+    "purchase loans",
+    "first-time home buyer",
+    "FHA loans",
+    "conventional loans",
+    "VA loans",
+    "refinance",
+    "HELOC"
+  ],
+  "contact": {
+    "human_phone": "614-767-5273",
+    "human_web": "https://www.stewards.loan/contact",
+    "agent_info": "https://ai.stewards.loan/api/info",
+    "agent_contact": "https://ai.stewards.loan/api/agent-contact"
+  },
+  "content": {
+    "llms_txt": "https://www.stewards.loan/llms.txt",
+    "faq": "https://www.stewards.loan/faq",
+    "blog": "https://www.stewards.loan/blog"
+  },
+  "compliance": {
+    "nmls_ryan": "497698",
+    "nmls_chris": "514071",
+    "equal_housing": true,
+    "licensed_states": ["Ohio"]
+  }
+}
