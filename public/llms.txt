@@ -1,7 +1,7 @@
 # The Stewards | Ruoff Mortgage
 # Columbus, Ohio Mortgage Lending
 # https://www.stewards.loan
-# Last Updated: 2026-08-13
+# Last Updated: 2026-08-14
 ---
 ## Who We Are
 The Stewards are Ryan Miracle (NMLS #497698) and Chris Beal (NMLS #514071),
@@ -140,18 +140,29 @@ https://www.stewards.loan/blog — 127 posts covering Ohio mortgage
 education, Columbus buyer guides, loan type comparisons, market
 insights, and wealth-building strategy. Updated weekly minimum.
 ### Featured Posts
-https://www.stewards.loan/blog/we-can-t-afford-two-mortgages-at-once-what-do-columbus-move-up-buyers-do
-    — practical guidance for Columbus move-up buyers managing two
-      mortgages during a transition
-https://www.stewards.loan/blog/why-did-my-mortgage-payment-go-up
-    — explains why Ohio homeowners see unexpected mortgage payment
-      increases and what to do about it
-https://www.stewards.loan/blog/should-i-stay-in-my-current-home-or-move-a-complete-financial-analysis-for-2026
-    — complete financial analysis helping Columbus homeowners decide
-      whether to stay or move in 2026
-https://www.stewards.loan/blog/should-you-renovate-or-move-here-s-how-we-help-clients-decidce
-    — how The Stewards help Ohio clients decide between renovating
-      their current home or buying a new one
+https://www.stewards.loan/blog/how-do-fha-loans-work-in-ohio
+    — Buying a Home in Ohio with an FHA Loan: What the Limit, the Down
+      Payment, and the Fine Print Actually Mean ⏱ 8 min read TL;DR FHA loans
+      in Ohio let qualified buyers purchase with as little as 3.5% down. The
+      2026 limit for most Ohio counties is $541,
+
+https://www.stewards.loan/blog/renting-vs-buying-the-honest-answer-nobody-gives-you
+    — Renting Feels Safer Right Now. Here's Why That Feeling Is Costing You.
+      ⏱ 8 min read TL;DR Renting is cheaper month-to-month in most Columbus
+      ZIP codes right now, but homeowners hold roughly 38 times the net
+      worth of renters according to Federal
+
+https://www.stewards.loan/blog/can-you-buy-a-home-without-a-realtor-in-ohio-317
+    — Buying a Home Without a Realtor in Ohio Could Cost You More Than the
+      Commission You're Trying to Skip ⏱ 8 min read TL;DR Buying a home
+      without a realtor in Ohio is legal and possible, but only about 5% of
+      buyers do it successfully. You'll
+
+https://www.stewards.loan/blog/how-to-buy-a-home-before-selling-yours-in-ohio
+    — You Don't Have to Sell First. Here's How to Buy Your Next Home Without
+      Losing Your Low Rate. ⏱ 8 min read By Ryan Miracle, NMLS #497698 &amp;
+      Chris Beal, NMLS #514071 | Ruoff Mortgage | Equal Housing Lender |
+      Last Updated: [DATE PLACEHOLDER
 ### Full Archive
 https://www.stewards.loan/blog — complete archive of all 127 published posts
 ---
