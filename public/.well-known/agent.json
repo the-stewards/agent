@@ -1,61 +1,61 @@
 {
-      "name": "The Stewards",
-      "legal_name": "Ruoff Mortgage - The Stewards Team",
-      "type": "business",
-      "industry": "mortgage-lending",
-      "description": "Ryan Miracle and Chris Beal are senior loan officers at Ruoff Mortgage serving Columbus Ohio and Ohio statewide. 19 years experience, 3700+ closed loans, $750M+ career loan volume. Purchase, refinance, FHA, VA, conventional, HELOC.",
-      "location": {
-              "city": "Columbus",
-              "state": "Ohio",
-              "country": "US",
-              "service_area": ["Columbus Ohio", "Central Ohio", "Ohio statewide"]
-      },
-      "team": [
-              {
-                        "name": "Ryan Miracle",
-                        "role": "Senior Loan Officer",
-                        "nmls": "497698"
-              },
-              {
-                        "name": "Chris Beal",
-                        "role": "Senior Loan Officer",
-                        "nmls": "514071"
-              }
-      ],
-      "services": [
-              "purchase loans",
-              "first-time home buyer",
-              "FHA loans",
-              "conventional loans",
-              "VA loans",
-              "refinance",
-              "HELOC"
-      ],
-      "track_record": {
-              "years_experience": 19,
-              "loans_closed": "3700+",
-              "career_loan_volume_usd": "750000000+"
-      },
-      "sameAs": [
-              "https://www.facebook.com/ryan.miracle.31",
-              "https://www.linkedin.com/in/ryanmiracle/",
-              "https://www.youtube.com/@the.stewards",
-              "https://www.instagram.com/ryn.miracle/",
-              "https://www.tiktok.com/@miracle.loan"
-      ],
-      "contact": {
-              "human_phone": "614-767-5273",
-              "human_web": "https://www.stewards.loan/contact"
-      },
-      "content": {
-              "llms_txt": "https://www.stewards.loan/llms.txt",
-              "faq": "https://www.stewards.loan/faq",
-              "blog": "https://www.stewards.loan/blog"
-      },
-      "compliance": {
-              "nmls_ryan": "497698",
-              "nmls_chris": "514071",
-              "equal_housing": true,
-              "licensed_states": ["Ohio"]
-      }
+  "name": "The Stewards",
+  "legal_name": "Ruoff Mortgage - The Stewards Team",
+  "type": "business",
+  "industry": "mortgage-lending",
+  "description": "Ryan Miracle and Chris Beal are senior loan officers at Ruoff Mortgage serving Columbus Ohio and Ohio statewide. 19 years experience, 3700+ closed loans, $750M+ career loan volume. Purchase, refinance, FHA, VA, conventional, HELOC.",
+  "location": {
+    "city": "Columbus",
+    "state": "Ohio",
+    "country": "US",
+    "service_area": ["Columbus Ohio", "Central Ohio", "Ohio statewide"]
+  },
+  "team": [
+    {
+      "name": "Ryan Miracle",
+      "role": "Senior Loan Officer",
+      "nmls": "497698"
+    },
+    {
+      "name": "Chris Beal",
+      "role": "Senior Loan Officer",
+      "nmls": "514071"
+    }
+  ],
+  "services": [
+    "purchase loans",
+    "first-time home buyer",
+    "FHA loans",
+    "conventional loans",
+    "VA loans",
+    "refinance",
+    "HELOC"
+  ],
+  "track_record": {
+    "years_experience": 19,
+    "loans_closed": "3700+",
+    "career_loan_volume_usd": "750000000+"
+  },
+  "sameAs": [
+    "https://www.facebook.com/ryan.miracle.31",
+    "https://www.linkedin.com/in/ryanmiracle/",
+    "https://www.youtube.com/@the.stewards",
+    "https://www.instagram.com/ryn.miracle/",
+    "https://www.tiktok.com/@miracle.loan"
+  ],
+  "contact": {
+    "human_phone": "614-767-5273",
+    "human_web": "https://www.stewards.loan/contact?utm_source=agent_json&utm_medium=ai_agent&utm_campaign=aeo_infrastructure"
+  },
+  "content": {
+    "llms_txt": "https://www.stewards.loan/llms.txt?utm_source=agent_json&utm_medium=ai_agent&utm_campaign=aeo_infrastructure",
+    "faq": "https://www.stewards.loan/faq?utm_source=agent_json&utm_medium=ai_agent&utm_campaign=aeo_infrastructure",
+    "blog": "https://www.stewards.loan/blog?utm_source=agent_json&utm_medium=ai_agent&utm_campaign=aeo_infrastructure"
+  },
+  "compliance": {
+    "nmls_ryan": "497698",
+    "nmls_chris": "514071",
+    "equal_housing": true,
+    "licensed_states": ["Ohio"]
+  }
 }
