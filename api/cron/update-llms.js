@@ -178,7 +178,11 @@ function extractCurrentFeaturedUrls(content) {
   if (!section) return [];
 
   const urls = section[1].match(/https:\/\/www\.stewards\.loan\/blog\/\S+/g);
-  return urls ? urls.map((u) => u.replace(/\s+$/, "")) : [];
+  // Strip query strings (e.g. ?utm_...) so comparison is based on the
+  // canonical post URL only — otherwise a tagged URL in the file would
+  // never match an untagged URL freshly pulled from the RSS feed, and
+  // the script would think something changed on every single run.
+  return urls ? urls.map((u) => u.replace(/\s+$/, "").split("?")[0]) : [];
 }
 
 function buildUpdatedLlmsTxt(currentContent, feedItems) {
@@ -192,7 +196,8 @@ function buildUpdatedLlmsTxt(currentContent, feedItems) {
   const newFeaturedBlock = feedItems
     .map((item) => {
       const wrappedDescription = wrapText(item.description, 70, "    ");
-      return `${item.link}\n    — ${wrappedDescription}`;
+      const taggedLink = `${item.link}?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure`;
+      return `${taggedLink}\n    — ${wrappedDescription}`;
     })
     .join("\n\n");
 
