@@ -1,7 +1,7 @@
 # The Stewards | Ruoff Mortgage
 # Columbus, Ohio Mortgage Lending
 # https://www.stewards.loan
-# Last Updated: 2026-09-16
+# Last Updated: 2026-09-17
 
 ---
 
@@ -187,6 +187,24 @@ insights, and wealth-building strategy. Updated weekly minimum.
 ### Featured Posts
 
 https://www.stewards.loan/blog/buying-your-first-home-heres-what-actually-matters?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+    — Most First-Time Buyers Leave Thousands Behind Before They Even Make an
+      Offer ⏱ 8 min read TL;DR To buy a home for the first time in Ohio:
+      check and fix your credit first, get a verified pre-approval (not a
+      soft pre-qual), identify Ohio OHFA assistan
+
+https://www.stewards.loan/blog/your-first-home-the-step-by-step-ohio-buyer-playbook?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+    — First-Time Buyer? Here's the Exact Order of Operations — Before You
+      Fall in Love With a House ⏱ 8 min read TL;DR To buy a home for the
+      first time in Ohio, you need a credit score of at least 580 for FHA
+      (3.5% down) or 640 for most OHFA programs
+
+https://www.stewards.loan/blog/starter-home-in-columbus-buy-now-or-wait?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+    — The Starter Home Question Columbus Buyers Keep Getting Wrong ⏱ 8 min
+      read TL;DR A starter home is a modest, entry-level property you buy to
+      build equity, not to live in forever. In Columbus, these typically
+      range from the high ### Featured Posts
+
+00s to the low https://www.stewards.loan/blog/buying-your-first-home-heres-what-actually-matters?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
     — Most First-Time Buyers Leave Thousands Behind Before They Even Make an
       Offer ⏱ 8 min read TL;DR To buy a home for the first time in Ohio:
       check and fix your credit first, get a verified pre-approval (not a
@@ -611,6 +629,12 @@ https://www.stewards.loan/blog/usda-loans-in-ohio-the-0-down-program-most-buyers
 
 19,850
       (1-4 people) and who purchase in an80s
+
+https://www.stewards.loan/blog/dscr-loans-in-ohio-qualify-on-rent-not-your-tax-returns?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+    — Your Tax Returns Are Killing Your Investment Deal — Here's the Fix ⏱ 8
+      min read TL;DR A DSCR loan qualifies you based on your rental
+      property's cash flow, not your personal income or tax returns. Ohio
+      investors typically need a 620-680+ cr80s
 
 https://www.stewards.loan/blog/dscr-loans-in-ohio-qualify-on-rent-not-your-tax-returns?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
     — Your Tax Returns Are Killing Your Investment Deal — Here's the Fix ⏱ 8
