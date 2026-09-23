@@ -173,7 +173,19 @@ async function commitToGitHub(newContent, sha) {
 
 function extractCurrentFeaturedUrls(content) {
   const section = content.match(
-    /### Featured Posts([\s\S]*?)### Full Archive/
+    /### Featured Posts
+
+https://www.stewards.loan/blog/how-to-buy-a-foreclosed-home-ohio-edition?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+ — Waiting for the Crash? Here's What Buying a Foreclosure Actually Looks Like. ⏱ 8 min read TL;DR To buy a foreclosed home in Ohio, you choose one of three entry points — pre-foreclosure, sheriff-sale auction, or bank-owned REO. Each carries different risks and timelines.
+
+https://www.stewards.loan/blog/buying-your-first-home-heres-what-actually-matters?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+ — Most First-Time Buyers Leave Thousands Behind Before They Even Make an Offer ⏱ 8 min read TL;DR To buy a home for the first time in Ohio: check and fix your credit first, get a verified pre-approval (not a soft pre-qual), and identify Ohio OHFA assistance programs before you shop.
+
+https://www.stewards.loan/blog/your-first-home-the-step-by-step-ohio-buyer-playbook?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+ — First-Time Buyer? Here's the Exact Order of Operations — Before You Fall in Love With a House ⏱ 8 min read TL;DR To buy a home for the first time in Ohio, you need a credit score of at least 580 for FHA (3.5% down) or 640 for most OHFA programs.
+
+https://www.stewards.loan/blog/starter-home-in-columbus-buy-now-or-wait?utm_source=llms_txt&utm_medium=ai_agent&utm_campaign=aeo_infrastructure
+ — The Starter Home Question Columbus Buyers Keep Getting Wrong ⏱ 8 min read TL;DR A starter home is a modest, entry-level property you buy to build equity, not to live in forever. In Columbus, these typically range from the high $100s to the low $280s depending on neighborhood.### Full Archive/
   );
   if (!section) return [];
 
