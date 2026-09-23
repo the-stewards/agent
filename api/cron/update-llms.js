@@ -204,9 +204,9 @@ function buildUpdatedLlmsTxt(currentContent, feedItems) {
   const sectionRegex = /(### Featured Posts\s*\n)([\s\S]*?)(\n+### Full Archive)/;
   if (!sectionRegex.test(updated)) return null;
 
-  updated = updated.replace(
+    updated = updated.replace(
     sectionRegex,
-    `$1${newFeaturedBlock}$3`
+    (match, p1, p2, p3) => `${p1}${newFeaturedBlock}${p3}`
   );
 
   return updated;
